@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Stove
+  - Water
+  - Ground
+  - Enemy
+  - Boss
+  - BottomScreenCollider
+  - Enemies
+  - Heals
+  - BossMinion
+  - BossSpawnPoint
+  - bHB
+  - bossKill
+  - DataSaver
+  - bKT
+  - Normal
+  - WholeWheat
+  - Soggy
+  - Frozen
+  - Toasted
+  - Baguette
+  - Tortilla
+  - Ramsay
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Stove
+  - Ground
+  - PlayerBullet
+  - Enemy
+  - EnemyBullet
+  - Boss
+  - PickUps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 3688057423
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

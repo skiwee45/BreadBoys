@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a6bcd15b8d465504ea1f46c5827b28ef
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 8fab89461baa7954291257249ac9e3aa
+  - enabled: 1
+    path: Assets/Scenes/Preformance.unity
+    guid: 46934004060f7ec478f5e0fd207238c1
+  m_configObjects: {}
